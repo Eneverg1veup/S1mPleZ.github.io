@@ -32,8 +32,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学习经历
-- *2024.06 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
-- *2021.06 - 2024.9*, <a href="https://www.csu.edu.cn/"><img class="svg" src="images/csu_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士
+- *2024.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
+- *2021.09 - 2024.06*, <a href="https://www.csu.edu.cn/"><img class="svg" src="images/csu_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士
 - *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="png" src="images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 学士
  
 <span class='anchor' id='-lwzl'></span>
