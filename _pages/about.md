@@ -106,8 +106,8 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - *2024年* 获得ACL 2024 `杰出论文奖` (Outstanding Paper Award) for the paper "SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection".
+</div>
 
-- 
 <!-- 
 <span class='anchor' id='-xshy'></span>
 
