@@ -60,7 +60,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/SPZ.png' alt="sym" width="100%"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper Award</div><img src='images/outstanding paper award.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/SPZ.png' alt="sym" width="100%"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper Award<img src='images/outstanding paper award.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Fangfang Li, Cheng Huang, `Puzhen Su*`, Jie Yin. SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection. *In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 15429–15439, Bangkok, T ailand. Association for Computational Linguistics. (CCF-A; Outstanding Paper Award)  
@@ -119,4 +119,5 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
 
