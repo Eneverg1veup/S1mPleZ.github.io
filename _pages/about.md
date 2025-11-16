@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - `Puzhen Su`, Haoran Yin, Yongzhu Miao, Jintao Tang*, Shasha Li*, Ting Wang*. Beyond Plain Demos: A Demo-centric Anchoring Paradigm for In-Context Learning in Alzheimer's Disease Detection. *The 40th Annual AAAI Conference on Artificial Intelligence*. (CCF-A; Oral)  
-[[网页]](https://arxiv.org/abs/2511.06826) [[预览]](https://arxiv.org/pdf/2511.06826) 
+[[网页]](https://arxiv.org/abs/2511.06826) [[预览]](https://arxiv.org/pdf/2511.06826)
 
 </div>
 </div>
@@ -72,8 +72,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/CL_DIL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Fangfang Li, `Puzhen Su`, Junwen Duan*, Weidong Xiao. Towards better representations for multi-label text classification with multi-granularity information. *In Findings of the Association for Computational Linguistics: EMNLP 2023*, pages 9470–9480, Singapore. Association for Computational Linguistics. (CCF-B)  
+- Fangfang Li, `Puzhen Su`, Junwen Duan*, Weidong Xiao. Towards better representations for multi-label text classification with multi-granularity information. *In Findings of the Association for Computational Linguistics: EMNLP 2023*, pages 9470–9480, Singapore. Association for Computational Linguistics. (CCF-B)  
 [[网页]](https://aclanthology.org/2023.findings-emnlp.635/) [[预览]](https://aclanthology.org/2023.findings-emnlp.635.pdf)
+
+</div>
+</div>
 
 
 ### 中文
