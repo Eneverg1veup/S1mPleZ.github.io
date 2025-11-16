@@ -32,9 +32,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.06 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="/images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
+- *2024.06 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
 - *2021.06 - 2024.9*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/csu_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士
-- *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="svg" src="/images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 本科
+- *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="png" src="/images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -45,7 +45,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/DA4ICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Puzhen Su`, Haoran Yin, Yongzhu Miao, Jintao Tang, Shasha Li, Ting Wang. Beyond Plain Demos: A Demo-centric Anchoring Paradigm for In-Context Learning in Alzheimer's Disease Detection. *The 40th Annual AAAI Conference on Artificial Intelligence*. (CCF-A; Oral)  
+- `Puzhen Su`, Haoran Yin, Yongzhu Miao, Jintao Tang*, Shasha Li*, Ting Wang*. Beyond Plain Demos: A Demo-centric Anchoring Paradigm for In-Context Learning in Alzheimer's Disease Detection. *The 40th Annual AAAI Conference on Artificial Intelligence*. (CCF-A; Oral)  
 [[网页]](https://arxiv.org/abs/2511.06826) [[预览]](https://arxiv.org/pdf/2511.06826) 
 
 </div>
@@ -54,16 +54,16 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='images/EK_ICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Puzhen Su`, Yongzhu Miao, Haoran Yin, Jintao Tang, Shasha Li, Ting Wang. Explicit Knowledge-Guided In-Context Learning for Early Detection of Alzheimer's Disease. *The 19th International Conference on Bioinformatics & Biomedicine*. (CCF-B)  
+- `Puzhen Su`, Yongzhu Miao, Haoran Yin, Jintao Tang*, Shasha Li*, Ting Wang*. Explicit Knowledge-Guided In-Context Learning for Early Detection of Alzheimer's Disease. *The 19th International Conference on Bioinformatics & Biomedicine*. (CCF-B)  
 [[网页]](https://arxiv.org/abs/2511.06215) [[预览]](https://arxiv.org/pdf/2511.06215)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/SPZ.png' alt="sym" width="100%"></div></div><img src='images/outstanding paper ward.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/SPZ.png' alt="sym" width="100%"></div></div><img src='images/outstanding paper ward.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Fangfang Li, Cheng Huang, `Puzhen Su*`, Jie Yin. SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection. *In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 15429–15439, Bangkok, Thailand. Association for Computational Linguistics. (CCF-A; Outstanding Paper Award)  
+- Fangfang Li, Cheng Huang, `Puzhen Su*`, Jie Yin. SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection. *In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 15429–15439, Bangkok, T ailand. Association for Computational Linguistics. (CCF-A; Outstanding Paper Award)  
 [[网页]](https://aclanthology.org/2024.acl-long.823/) [[预览]](https://aclanthology.org/2024.acl-long.823.pdf)
 
 </div>
@@ -72,14 +72,14 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/CL_DIL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Fangfang Li, `Puzhen Su`, Junwen Duan, Weidong Xiao. Towards better representations for multi-label text classification with multi-granularity information. *In Findings of the Association for Computational Linguistics: EMNLP 2023*, pages 9470–9480, Singapore. Association for Computational Linguistics. (CCF-B)  
+-	Fangfang Li, `Puzhen Su`, Junwen Duan*, Weidong Xiao. Towards better representations for multi-label text classification with multi-granularity information. *In Findings of the Association for Computational Linguistics: EMNLP 2023*, pages 9470–9480, Singapore. Association for Computational Linguistics. (CCF-B)  
 [[网页]](https://aclanthology.org/2023.findings-emnlp.635/) [[预览]](https://aclanthology.org/2023.findings-emnlp.635.pdf)
 
 
 ### 中文
 ---
 
-- 	李芳芳, `苏朴真`, 段俊文, 张师超, 毛星亮. 多粒度信息关系增强的多标签文本分类. *软件学报*. 2023,34(12). (核心期刊)  
+- 	李芳芳, `苏朴真`, 段俊文*, 张师超*, 毛星亮. 多粒度信息关系增强的多标签文本分类. *软件学报*. 2023,34(12). (核心期刊)  
 [[网页]](https://dx.doi.org/10.13328/j.cnki.jos.006802) [[预览]](https://kns.cnki.net/kcms2/article/abstract?v=9jT59j8Ji04IVC_Oy-SKEdbyGfGRY-MByfM27maog6Cr-KD3QCtLLtNhFuzWG3KoQHgR5tDdgDdLpookmP0ameJcyvEPyOf5CI7SxvjxL9_7JhXRDMbbIp-LBsOacCkJeSkV8U0hMNn9fjKAWg9zY-E9hNidd3R5P20dc2N4fNE4klmiM-DBTw==&uniplatform=NZKPT&language=CHS)  
 
 ### 专利
