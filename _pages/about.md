@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖南长沙的 国防科技大学 计算机学院。硕士毕业于湖南长沙的 中南大学 计算机学院。本科毕业于黑龙江哈尔滨的 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）。
+我将博士毕业于湖南长沙的`国防科技大学`计算机学院。硕士毕业于湖南长沙的`中南大学`计算机学院。本科毕业于黑龙江哈尔滨的`东北林业大学`信息与计算机工程学院（现计算机与控制工程学院）。
  <a href='https://scholar.google.com/citations?user=fsP1ywIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -34,7 +34,7 @@ redirect_from:
 # 🎓 学历
 - *2024.06 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
 - *2021.06 - 2024.9*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/csu_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士
-- *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="png" src="/images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 本科
+- *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="png" src="/images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 学士
  
 <span class='anchor' id='-lwzl'></span>
 
