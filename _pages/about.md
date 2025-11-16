@@ -100,7 +100,7 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-🏅 荣誉奖项
+# 🏅 荣誉奖项
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper Award</div><img src='images/outstanding paper award.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
