@@ -21,20 +21,20 @@ redirect_from:
  <a href='https://scholar.google.com/citations?user=fsP1ywIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 自然语言处理
-- 人工智能
-- 大语言模型
-- 阿尔兹海默症文本检测
-- 上下文学习
+- 自然语言处理 (Natural Language Processing)
+- 人工智能 (Artificial Intelligence)
+- 大语言模型 (Large Language Models)
+- 阿尔兹海默症文本检测 (Alzheimer's Disease Text Detection)
+- 上下文学习 (In-Context Learning)
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2024.06 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
-- *2021.06 - 2024.9*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/csu_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士
-- *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="png" src="/images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 学士
+# 🎓 学习经历
+- *2024.06 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="images/nudt_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士
+- *2021.06 - 2024.9*, <a href="https://www.csu.edu.cn/"><img class="svg" src="images/csu_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士
+- *2017.09 - 2021.06*, <a href="https://www.nefu.edu.cn/"><img class="png" src="images/NEFU_LOGO.png" width="20pt"></a> 东北林业大学 信息与计算机工程学院（现计算机与控制工程学院）, 黑龙江哈尔滨, 学士
  
 <span class='anchor' id='-lwzl'></span>
 
