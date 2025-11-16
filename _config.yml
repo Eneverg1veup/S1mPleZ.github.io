@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "S1mPleZ's Home Page"
-description              : | 
-计算机科学与技术专业
-自然语言处理方向的计算机科学与技术博士生，研究兴趣包括但不限于：医学文本挖掘、预训练语言模型、数据增强、低资源学习等。
+description              : |
+  计算机科学与技术专业
+  自然语言处理方向的计算机科学与技术博士生，研究兴趣包括但不限于：医学文本挖掘、预训练语言模型、数据增强、低资源学习等。
 repository               : "Eneverg1veup/S1mPleZ.github.io"
 google_scholar_stats_use_cdn : false
 
