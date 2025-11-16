@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "苏朴真 (SPZ)"
+title                    : "S1mPleZ's Home Page"
 description              : "计算机科学与技术博士生\n\t 自然语言处理方向"
 repository               : "Eneverg1veup/S1mPleZ.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "苏朴真 (SPZ)"
+  name             : "苏朴真 (Sū Pǔ Zhēn, SPZ)"
   avatar           : "images/who_am_I.jpg"
   bio              : "国防科技大学"
   location         : "国防科技大学 长沙"
