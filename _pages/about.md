@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖南省长沙市的`国防科技大学`计算机学院。硕士毕业于湖南省长沙市的`中南大学`计算机学院。本科毕业于黑龙江省哈尔滨市的`东北林业大学`信息与计算机工程学院（现计算机与控制工程学院）。
+我将博士毕业于🔥湖南省长沙市的`国防科技大学`计算机学院。硕士毕业于🔥湖南省长沙市的`中南大学`计算机学院。本科毕业于❄️黑龙江省哈尔滨市的`东北林业大学`信息与计算机工程学院（现计算机与控制工程学院）。
  <a href='https://scholar.google.com/citations?user=fsP1ywIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
