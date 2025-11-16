@@ -60,7 +60,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/SPZ.png' alt="sym" width="100%"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper Award</div><img src='images/outstanding paper award.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/SPZ.png' alt="sym" width="100%"><div class='paper-box'></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Fangfang Li, Cheng Huang, `Puzhen Su*`, Jie Yin. SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection. *In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 15429–15439, Bangkok, T ailand. Association for Computational Linguistics. (CCF-A; Outstanding Paper Award)  
@@ -98,14 +98,17 @@ redirect_from:
 
 
 
-<!-- 
+
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+🏅 荣誉奖项
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper Award</div><img src='images/outstanding paper award.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+- *2024年* 获得ACL 2024 `杰出论文奖` (Outstanding Paper Award) for the paper "SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection".
+
+- 
+<!-- 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
