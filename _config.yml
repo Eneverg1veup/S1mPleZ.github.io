@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "S1mPleZ's Home Page"
-description              : "计算机科学与技术博士生\n\t 自然语言处理方向"
+description              : | 
+计算机科学与技术专业
+自然语言处理方向的计算机科学与技术博士生，研究兴趣包括但不限于：医学文本挖掘、预训练语言模型、数据增强、低资源学习等。
 repository               : "Eneverg1veup/S1mPleZ.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "苏朴真 (Sū Pǔ Zhēn, SPZ)"
+  name             : "苏朴真 \n (Sū Pǔ Zhēn, SPZ)"
   avatar           : "images/who_am_I.jpg"
   bio              : "国防科技大学"
   location         : "国防科技大学 长沙"
